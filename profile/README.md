@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-### Somos a Equipe Hub.co do Hackathon promovido pelo Tesouro Nacional
+### Somos a Equipe Aval Gest do Hackathon promovido pelo Tesouro Nacional
 
-#### Nosso desafio - Plataforma de Empréstimos Garantidos por Títulos do Tesouro Direto
-
+#### Nosso desafio - Oferecer aos usuários a capacidade de transformar títulos do Tesouro em instrumentos líquidos e multifuncionais, permitindo seu uso em empréstimos e outras formas de financiamento.
 <br>
 
 Líder: <br> 
