@@ -14,6 +14,13 @@ Líder: <br>
 
 Participantes: <br>
 
+</a>
+
+<a target="_blank" href=" ">Tiago Pastorello </a> <a target="_blank" href="https://www.linkedin.com/in/tiago-pastorello/">
+  <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
+    />
+</a>
+
 <a target="_blank" href=" "> Carlos Ramos</a> <a target="_blank" href="https://www.linkedin.com/in/carlos-ramos-695543117/">
   <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
     />
@@ -23,9 +30,11 @@ Participantes: <br>
   <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
     />
 </a>
+<a/>
 <a target="_blank" href="https://github.com/jacsontiola">Jacson Tiola</a> <a target="_blank" href="https://www.linkedin.com/in/tiola/">
   <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
     />
+<a/>
 
 </a>
 
