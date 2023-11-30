@@ -6,7 +6,7 @@
 <br>
 
 Líder: <br> 
-<a target="_blank" href="https://github.com/jacsontiola">Jacson Tiola</a> <a target="_blank" href="https://www.linkedin.com/in/tiola/">
+<a target="_blank" href="">Thom M Costa </a> <a target="_blank" href="https://www.linkedin.com/in/thommcosta/">
   <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
     />
 </a>
@@ -23,10 +23,10 @@ Participantes: <br>
   <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
     />
 </a>
-
-<a target="_blank" href="">Thom M Costa </a> <a target="_blank" href="https://www.linkedin.com/in/thommcosta/">
+<a target="_blank" href="https://github.com/jacsontiola">Jacson Tiola</a> <a target="_blank" href="https://www.linkedin.com/in/tiola/">
   <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
     />
+
 </a>
 
 <a target="_blank" href="https://github.com/Micheleregina2022">Michele Regina Bora</a> <a target="_blank" href="https://www.linkedin.com/in/michele-regina-bora/">
