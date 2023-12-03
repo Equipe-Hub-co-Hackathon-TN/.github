@@ -2,7 +2,7 @@
 
 ### Somos a Equipe Aval Gest do Hackathon promovido pelo Tesouro Nacional
 
-#### Nosso desafio - Oferecer aos usuários a capacidade de transformar títulos do Tesouro em instrumentos líquidos e multifuncionais, permitindo seu uso em empréstimos e outras formas de financiamento.
+#### Nosso desafio - Oferecer aos usuários a capacidade de transformar títulos do Tesouro em instrumentos líquidos e multifuncionais, permitindo seu uso como garantia em empréstimos e outras formas de financiamento.
 <br>
 
 Líder: <br> 
@@ -30,11 +30,11 @@ Participantes: <br>
   <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
     />
 </a>
-<a/>
+
 <a target="_blank" href="https://github.com/jacsontiola">Jacson Tiola</a> <a target="_blank" href="https://www.linkedin.com/in/tiola/">
   <img alt="LinkdeIN" width="22px" src="https://github.com/Equipe-Hub-co-Hackathon-TN/.github/assets/106915522/79d804f4-587c-43ce-ae4a-4f71466fc0c9"
     />
-<a/>
+</a>
 
 </a>
 
